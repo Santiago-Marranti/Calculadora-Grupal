@@ -14,5 +14,5 @@ def calcular_potencia():
         print(f"\nHa ocurrido un error inesperado: {e}")
 
 # Ejecutar la función
-if _name_ == "_main_":
+if __name__ == "_main_":
     calcular_potencia()
