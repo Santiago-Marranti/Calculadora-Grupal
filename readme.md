@@ -9,3 +9,13 @@ Desarrollar una calculadora que permita a los usuarios realizar operaciones mate
 ![d2439c21-a470-447a-b61d-53f8f41888bf](https://github.com/user-attachments/assets/33f235ab-a413-4d25-ad5a-31278cf2eb98)
 
 Los links de las consultas realizadas a ChatGPT se encuentran en las issues correspondientes a las funcionalidades agregadas (suma, resta, multiplicacion, etc) con sus respectivas historias de usuarios.
+
+Las distintas funcionalidades implementadas fueron asignadas de la siguiente manera:
+SUMA -> ARIADNA
+RESTA -> ORIANA
+MULTIPLICACION -> ROMAN
+DIVISION -> SANTIAGO
+POTENCIA -> ROMAN
+RAIZ -> ORIANA
+LOGARITMO NATURAL -> ARIADNA
+LOGARITMO -> SANTIAGO
