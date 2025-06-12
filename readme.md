@@ -12,10 +12,17 @@ Los links de las consultas realizadas a ChatGPT se encuentran en las issues corr
 
 Las distintas funcionalidades implementadas fueron asignadas de la siguiente manera:
 SUMA -> ARIADNA
+
 RESTA -> ORIANA
+
 MULTIPLICACION -> ROMAN
+
 DIVISION -> SANTIAGO
+
 POTENCIA -> ROMAN
+
 RAIZ -> ORIANA
+
 LOGARITMO NATURAL -> ARIADNA
+
 LOGARITMO -> SANTIAGO
