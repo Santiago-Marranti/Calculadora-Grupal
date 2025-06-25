@@ -1,18 +1,14 @@
-def calcular_potencia():
+def calcular_potencia(a, b):
     print("=== Calculadora de Potencia ===")
     
     try:
-        base = float(input("Ingresa la base: "))
-        exponente = float(input("Ingresa el exponente: "))
+        base = a
+        exponente = b
         
         resultado = base ** exponente
-        print(f"\nResultado: {base} ^ {exponente} = {resultado}")
+        return resultado;
     
     except ValueError:
         print("\nError: Debes ingresar números válidos.")
     except Exception as e:
         print(f"\nHa ocurrido un error inesperado: {e}")
-
-# Ejecutar la función
-if __name__ == "_main_":
-    calcular_potencia()
