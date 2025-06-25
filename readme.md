@@ -26,3 +26,5 @@ RAIZ -> ORIANA
 LOGARITMO NATURAL -> ARIADNA
 
 LOGARITMO -> SANTIAGO
+
+Chat actualizado 25/6/25 https://chatgpt.com/share/685c7155-ccb0-8006-a2a4-725dbbbc3c7e
