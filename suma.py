@@ -1,7 +1,7 @@
-def sumar_numeros():
+def sumar_numeros(a, b):
     try:
-        num1 = input("Ingrese el primer número: ").replace(",", ".")
-        num2 = input("Ingrese el segundo número: ").replace(",", ".")
+        num1 = a
+        num2 = b
 
         # Validar que ambos campos no estén vacíos
         if not num1 or not num2:
@@ -12,10 +12,7 @@ def sumar_numeros():
         num2 = float(num2)
 
         resultado = num1 + num2
-        print(f"El resultado de {num1} + {num2} es: {resultado}")
+        return resultado;
 
     except ValueError as e:
         print(f"Error: {e}")
-
-# Llamar a la función
-sumar_numeros()
