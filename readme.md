@@ -46,5 +46,6 @@ Esto ejecutara el archivo main.py, le da a enter, luego enter cuando le pida el 
 y privadas. Una vez acepte, podrá visualizar en el navegador la calculadora.
 
 Imagen:
-![image](https://github.com/user-attachments/assets/17617ee8-28f6-4a02-9cef-2d10f6f8720f)
+![image](https://github.com/user-attachments/assets/eed5706e-87a2-4108-ab00-0e5f5c7f1f18)
+
 
