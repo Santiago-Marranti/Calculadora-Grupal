@@ -28,3 +28,23 @@ LOGARITMO NATURAL -> ARIADNA
 LOGARITMO -> SANTIAGO
 
 Chat actualizado 25/6/25 https://chatgpt.com/share/685c7155-ccb0-8006-a2a4-725dbbbc3c7e
+
+## 💻 Requisitos para ejecutarlo en el navegador:
+- Python 3.10+
+- Streamlit (para interfaz web)
+
+Debe instalar StreamLit para poder ejecutarlo en su computadora
+En la terminal ingrese de Visual Studio Code tipee:
+  -> pip install streamlit
+
+Esto instalará las dependecias necesarias.
+
+Una vez instalado ingrese:
+  -> streamlit run main.py
+
+Esto ejecutara el archivo main.py, le da a enter, luego enter cuando le pida el email, le solicitara unos permisos de Python que le solicita acceder aredes publicas 
+y privadas. Una vez acepte, podrá visualizar en el navegador la calculadora.
+
+Imagen:
+![image](https://github.com/user-attachments/assets/17617ee8-28f6-4a02-9cef-2d10f6f8720f)
+
