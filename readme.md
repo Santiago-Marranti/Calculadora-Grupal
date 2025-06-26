@@ -33,6 +33,7 @@ Chat actualizado 25/6/25 https://chatgpt.com/share/685c7155-ccb0-8006-a2a4-725db
 - Python 3.10+
 - Streamlit (para interfaz web)
 
+## ⚙️ Para ejecutarlo de manera local en su computadora:
 Debe instalar StreamLit para poder ejecutarlo en su computadora
 En la terminal ingrese de Visual Studio Code tipee:
   -> pip install streamlit
